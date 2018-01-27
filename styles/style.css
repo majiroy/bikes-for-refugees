@@ -36,7 +36,9 @@ body {
 .btn {
 	border-radius: 0.15em;
 }
-
+.btn-primary{
+	background-color: green;
+}
 /* Alert */
 .alert {
 	position: relative;
